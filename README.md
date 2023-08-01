@@ -1,2 +1,2 @@
 # KeeperApp
-A to-do list app
+A Note taking app
